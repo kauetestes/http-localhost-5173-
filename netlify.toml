@@ -1,0 +1,6 @@
+[build]
+  command = "npm install && npm run build"
+  publish = "dist"
+
+[context.production.environment]
+  GEMINI_API_KEY = "SUA_CHAVE_AQUI"
