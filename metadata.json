@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Faturamento",
+  "description": "Uma dashboard interativa para visualizar dados de faturamento por cliente, produto e período, com funcionalidades de filtragem e visualização gráfica.",
+  "requestFramePermissions": []
+}
