@@ -3,4 +3,4 @@
   publish = "dist"
 
 [context.production.environment]
-  GEMINI_API_KEY = "SUA_CHAVE_AQUI"
+  GEMINI_API_KEY = "AIzaSyC7BSZTbguKXS1lpsnP4QdcODqsQ3kKVnU"
